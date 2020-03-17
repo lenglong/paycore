@@ -1,0 +1,2 @@
+include ':app', ':paycore', ':pay-annotation', ':pay-processor', ':test'
+rootProject.name='PayCore'
